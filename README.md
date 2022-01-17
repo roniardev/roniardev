@@ -1,4 +1,4 @@
-### Hi there <img src="https://i.ibb.co/q0Hx1KK/wave.gif" alt="wave" border="0" width="30px">
+### Hi there <img src="https://i.ibb.co/q0Hx1KK/wave.gif" alt="wave" border="0">
 
 - 🌱 I’m currently learning **React**, **Typescript**, **Rescript**
 - 📫 How to reach me: dev@ron.my.id
