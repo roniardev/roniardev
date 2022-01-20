@@ -15,19 +15,19 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 214 Contributions in the Year 2022
+> 🏆 130 Contributions in the Year 2022
  > 
 > 📦 173.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 54 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
  > 
@@ -60,14 +60,14 @@ Sunday       67 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               24 hrs 35 mins      ██████████████████████░░░   89.69% 
-Vue.js                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.41% 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
-YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
+JavaScript               22 hrs 5 mins       ██████████████████████░░░   90.81% 
+Vue.js                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
+YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 🔥 Editors: 
-VS Code                  27 hrs 25 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +84,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2022
+ Last Updated on 20/01/2022 07:09:53 UTC
 <!--END_SECTION:waka-->
