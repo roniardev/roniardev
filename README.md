@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,10 +58,14 @@ Sunday       63 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.0%
+CSS                      35 mins             ███████████░░░░░░░░░░░░░░   46.9% 
+HTML                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53% 
+JavaScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
@@ -78,5 +82,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2022 18:47:19 UTC
+ Last Updated on 07/03/2022 18:42:41 UTC
 <!--END_SECTION:waka-->
