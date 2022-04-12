@@ -1,6 +1,6 @@
 ### Hi there <img src="https://i.ibb.co/q0Hx1KK/wave.gif" alt="wave" width="45px">
 
-- 🌱 I’m currently learning **React**, **Typescript**, **Rescript**
+- 🌱 I’m currently work with **React**, **Typescript**, **Next**
 - 📫 How to reach me: dev@ron.my.id
 
 ## 🔧 Technologies & Tools
