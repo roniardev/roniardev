@@ -15,9 +15,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2056%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,5 +82,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2022 14:41:08 UTC
+ Last Updated on 12/04/2022 18:44:45 UTC
 <!--END_SECTION:waka-->
