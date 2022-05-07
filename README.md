@@ -15,6 +15,8 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -82,5 +84,5 @@ Go                       5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 18:46:07 UTC
+ Last Updated on 07/05/2022 18:44:13 UTC
 <!--END_SECTION:waka-->
