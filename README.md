@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,7 +23,7 @@
 
 > 🏆 706 Contributions in the Year 2022
  > 
-> 📦 232.5 kB Used in GitHub's Storage 
+> 📦 232.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -60,13 +60,13 @@ Sunday       51 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               32 hrs 27 mins      █████████████████████████   99.86% 
+TypeScript               32 hrs 8 mins       █████████████████████████   99.87% 
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  32 hrs 30 mins      █████████████████████████   100.0%
+VS Code                  32 hrs 11 mins      █████████████████████████   100.0%
 
 ```
 
@@ -83,5 +83,5 @@ Go                       5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2022 18:37:36 UTC
+ Last Updated on 28/12/2022 18:38:01 UTC
 <!--END_SECTION:waka-->
