@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C304%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -58,12 +58,12 @@ Sunday                   510 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               22 hrs 14 mins      █████████████████████████   98.62 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               24 hrs 21 mins      ████████████████████████░   97.57 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +79,5 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2023 18:36:11 UTC
+ Last Updated on 17/06/2023 18:36:23 UTC
 <!--END_SECTION:waka-->
