@@ -15,9 +15,9 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C618%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,14 +58,14 @@ Sunday                   510 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 hrs 48 mins      █████████████████████░░░░   82.28 % 
-GraphQL                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-ActionScript 3           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TypeScript               10 hrs 1 min        █████████████████████░░░░   82.64 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+GraphQL                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+ActionScript 3           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,5 +81,5 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2023 18:38:39 UTC
+ Last Updated on 27/10/2023 18:38:27 UTC
 <!--END_SECTION:waka-->
