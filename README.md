@@ -58,11 +58,10 @@ Sunday                   510 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JSON                     4 mins              ████████████████░░░░░░░░░   63.29 % 
-TypeScript               2 mins              █████████░░░░░░░░░░░░░░░░   36.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +77,5 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2024 18:38:19 UTC
+ Last Updated on 27/03/2024 18:38:46 UTC
 <!--END_SECTION:waka-->
