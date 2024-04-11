@@ -15,13 +15,11 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C834%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 265.5 kB Used in GitHub's Storage 
+> 📦 265.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -29,39 +27,6 @@
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                810 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌆 Daytime                2427 commits        ████████████░░░░░░░░░░░░░   47.15 % 
-🌃 Evening                1312 commits        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-🌙 Night                  598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   804 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Wednesday                778 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Thursday                 848 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Friday                   854 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Saturday                 713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Sunday                   510 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -75,5 +40,5 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 19:01:32 UTC
+ Last Updated on 11/04/2024 18:38:32 UTC
 <!--END_SECTION:waka-->
