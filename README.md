@@ -15,6 +15,8 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C834%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -73,5 +75,5 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 23:01:25 UTC
+ Last Updated on 15/04/2024 18:39:25 UTC
 <!--END_SECTION:waka-->
