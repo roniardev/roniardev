@@ -15,13 +15,15 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 278.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 219 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -56,14 +58,14 @@ Sunday                   526 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               19 hrs 14 mins      ██████████████████████░░░   89.72 % 
-CSS                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+TypeScript               19 hrs 15 mins      ██████████████████████░░░   88.28 % 
+CSS                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +81,5 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2024 18:44:59 UTC
+ Last Updated on 29/12/2024 18:44:39 UTC
 <!--END_SECTION:waka-->
