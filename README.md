@@ -15,15 +15,13 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C252%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 279.5 kB Used in GitHub's Storage 
- > 
-> 🏆 52 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -58,15 +56,15 @@ Sunday                   533 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               15 hrs 29 mins      ███████████████████░░░░░░   77.79 % 
-Dart                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TypeScript               16 hrs 6 mins       ███████████████████░░░░░░   76.52 % 
+Dart                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Bash                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 14 mins      ███████████████████████░░   91.57 % 
-Android Studio           1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+VS Code                  19 hrs 6 mins       ███████████████████████░░   90.76 % 
+Android Studio           1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,5 +80,5 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 18:50:35 UTC
+ Last Updated on 14/01/2025 18:47:55 UTC
 <!--END_SECTION:waka-->
