@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -79,5 +79,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2026 19:51:42 UTC
+ Last Updated on 16/06/2026 19:50:33 UTC
 <!--END_SECTION:waka-->
