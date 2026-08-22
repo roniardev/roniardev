@@ -62,29 +62,29 @@ Sunday                   719 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 55 mins        ███████████████░░░░░░░░░░   58.06 % 
-Other                    43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Bash                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+TypeScript               1 hr 55 mins        ███████████████░░░░░░░░░░   58.26 % 
+Other                    42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Bash                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        ███████████████████████░░   93.29 % 
-Hermes                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+VS Code                  3 hrs 4 mins        ███████████████████████░░   93.27 % 
+Hermes                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (43.54%)
+⏱ AI Coding Time: 1 hr 25 mins (43.34%)
 
 ✍️ 0 lines written by AI, 107 lines written by hand (0.0% AI-written)
 
-🔤 21,305,215 Input Tokens, 2,216,952 Output Tokens
+🔤 20,170,257 Input Tokens, 1,863,894 Output Tokens
 
-💵 $1119.84 Estimated AI Cost This Week
+💵 $964.77 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 59 AI Prompts
+🧠 21 AI Sessions, 52 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -110,5 +110,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 19:12:02 UTC
+ Last Updated on 22/08/2026 19:02:04 UTC
 <!--END_SECTION:waka-->
