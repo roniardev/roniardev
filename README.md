@@ -27,7 +27,7 @@
 
 > 📦 304.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,149 Contributions in the Year 2026
+> 🏆 1,153 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,37 +62,37 @@ Sunday                   729 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 55 mins        ███████████████████░░░░░░   77.03 % 
-Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               27 mins             █████████████░░░░░░░░░░░░   53.55 % 
+JavaScript               17 mins             █████████░░░░░░░░░░░░░░░░   34.72 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       ███████████████████████░░   91.10 % 
-Hermes                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Claude Code              51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (25.08%)
+⏱ AI Coding Time: 51 mins (100.0%)
 
-✍️ 0 lines written by AI, 107 lines written by hand (0.0% AI-written)
+✍️ 1,588 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,150,309 Input Tokens, 1,113,711 Output Tokens
+🔤 297,872 Input Tokens, 73,848 Output Tokens
 
-💵 $440.27 Estimated AI Cost This Week
+💵 $15.98 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 40 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     1,598 lines         █████████████████████████   100.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 39 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,950 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +108,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:13:47 UTC
+ Last Updated on 26/08/2026 20:32:56 UTC
 <!--END_SECTION:waka-->
