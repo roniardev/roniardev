@@ -27,7 +27,7 @@
 
 > 📦 304.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,181 Contributions in the Year 2026
+> 🏆 1,186 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,34 +62,34 @@ Sunday                   729 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 3 mins        ██████████████░░░░░░░░░░░   56.30 % 
-Markdown                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-TSConfig                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+TypeScript               2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
+Markdown                 1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+INI                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 59 mins       █████████████████████████   100.00 % 
+Claude Code              5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 33 mins (100.0%)
 
-✍️ 3,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,129 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,288,740 Input Tokens, 514,647 Output Tokens
+🔤 5,077,121 Input Tokens, 433,815 Output Tokens
 
-💵 $38.31 Estimated AI Cost This Week
+💵 $25.66 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 107 AI Prompts
+🧠 14 AI Sessions, 70 AI Prompts
 
-Grok                     3,440 lines         █████████████████████████   100.00 % 
+Grok                     3,249 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,778 characters per prompt
+📚 Verbose Prompter — average 8,932 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -107,5 +107,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:20:55 UTC
+ Last Updated on 29/08/2026 01:54:54 UTC
 <!--END_SECTION:waka-->
