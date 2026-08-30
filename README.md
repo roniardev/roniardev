@@ -62,35 +62,35 @@ Sunday                   729 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.80 % 
-Markdown                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-INI                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript               1 hr 53 mins        ███████████░░░░░░░░░░░░░░   45.59 % 
+Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+INI                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 5 mins        █████████████████████████   100.00 % 
+Claude Code              4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 9 mins (100.0%)
 
-✍️ 3,129 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,124 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,899,679 Input Tokens, 427,586 Output Tokens
+🔤 3,269,254 Input Tokens, 348,509 Output Tokens
 
-💵 $25.34 Estimated AI Cost This Week
+💵 $17.93 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 60 AI Prompts
+🧠 9 AI Sessions, 40 AI Prompts
 
-Grok                     3,249 lines         █████████████████████████   100.00 % 
+Grok                     3,244 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,135 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 10,385 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -107,5 +107,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:08:35 UTC
+ Last Updated on 30/08/2026 21:25:35 UTC
 <!--END_SECTION:waka-->
